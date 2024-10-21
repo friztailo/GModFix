@@ -10,7 +10,7 @@ do
     local TraceConfig = { endpos = TraceEndpos }
 
     --[[
-        Improvement Player:GetEyeTrace()
+        Improvement util.GetPlayerTrace()
     ]]--
 
     function util.GetPlayerTrace(ply, direction)
@@ -28,9 +28,8 @@ do
     end
 
     --[[
-        Improvement Player:GetEyeTrace()
+        Improvement util.QuickTrace()
     ]]--
-
 
     function util.QuickTrace( origin, direction, filter )
         TraceConfig.start = origin
