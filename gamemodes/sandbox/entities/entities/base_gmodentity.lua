@@ -2,7 +2,7 @@
 --[[
     https://github.com/Facepunch/garrysmod/pull/2109
 
-    Optimization ENT:BeingLookedAtByLocalPlayer (base_gmodentity)
+    Improvement ENT:BeingLookedAtByLocalPlayer (base_gmodentity)
     Caching raytracing result per frame to prevent unnecessary raytracing
 ]]--
 

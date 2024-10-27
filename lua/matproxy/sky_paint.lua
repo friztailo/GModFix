@@ -2,8 +2,8 @@
 --[[
     https://github.com/Facepunch/garrysmod/pull/2107
 
-    Optimization sky_paint matproxy
-    Without creating unnecessary garbage and frequent calls GC
+    Improvement sky_paint matproxy
+    Significant reduction in garbage creation
 ]]--
 
 matproxy.Add( {

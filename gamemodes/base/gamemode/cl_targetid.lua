@@ -1,6 +1,6 @@
 
 --[[
-    Optimization GM:HUDDrawTargetID
+    Improvement GM:HUDDrawTargetID
 ]]--
 
 local alpha_120 = Color( 0, 0, 0, 120 )
